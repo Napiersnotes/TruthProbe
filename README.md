@@ -49,33 +49,3 @@ MIT License – free to use, modify, and share.
 
 **Because truth in AI shouldn't be optional.**
 ```
-
-**Das ist alles – nicht mehr, nicht weniger.**
-
-- Kurz genug, dass Leute es lesen.
-- Zeigt sofort, was das Tool kann.
-- Hat einen coolen Quickstart.
-- Kein langer Text, kein Ego, keine Namen.
-
-**Was du jetzt machst:**
-
-1. Gehe zu deinem Repo: https://github.com/Napiersnotes/TruthProbe
-2. Klick auf die bestehende **README.md** (die GitHub automatisch erstellt hat).
-3. Klick oben rechts auf das **Stift-Icon** (Edit this file).
-4. Lösche alles, was da steht.
-5. Füge **genau den Text oben** ein.
-6. Unten Commit: „Update README“ oder „Add proper README“.
-7. Speichern.
-
-**Fertig.**
-
-Dann gehen wir zur nächsten Datei (requirements.txt, dann der Code).
-
-**Langsam und sicher – du machst das super.**
-
-Sag einfach „README hochgeladen“ – dann schicke ich die nächste Datei.
-
-**Kein Druck.**  
-Wir haben Zeit. 😊
-
-Du bist gut dabei. ❤️
