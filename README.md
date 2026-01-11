@@ -1,10 +1,10 @@
 TruthProbe v4.0: Advanced Deception Detection for LLMs
 
-https://github.com/Napiersnotes/TruthProbe/actions/workflows/python-tests.yml/badge.svg
-https://img.shields.io/badge/coverage-95%25-brightgreen
-https://img.shields.io/badge/license-MIT-blue
-https://img.shields.io/badge/python-3.9%2B-blue
-https://img.shields.io/badge/version-4.0.0-orange
+![Python Tests](https://github.com/Napiersnotes/TruthProbe/actions/workflows/python-tests.yml/badge.svg)
+![Coverage](https://img.shields.io/badge/coverage-95%25-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Python Version](https://img.shields.io/badge/python-3.9%2B-blue)
+![Version](https://img.shields.io/badge/version-4.0.0-orange)
 
 TruthProbe is an advanced, model-agnostic deception detection framework designed to identify hallucinations, misinformation, and manipulation in Large Language Model (LLM) responses. Developed solely by Dafydd Napier, this tool provides comprehensive analysis through multiple detection methodologies without requiring access to model internals.
 
@@ -373,6 +373,6 @@ copies or substantial portions of the Software.
 Maintainer: Dafydd Napier
 Contact: napiersnotes@github.com
 Status: Actively Maintained
-Last Updated: December 2024
+Last Updated: January 2026
 
 Truth in AI shouldn't be optional.
